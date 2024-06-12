@@ -1,0 +1,10 @@
+2024-05-23 19:08:53.654 [info] update#setState idle
+2024-05-23 19:09:23.689 [info] update#setState checking for updates
+2024-05-23 19:09:23.813 [info] update#setState idle
+2024-05-23 20:09:23.696 [info] update#setState checking for updates
+2024-05-23 20:09:24.202 [info] update#setState idle
+2024-05-23 21:09:23.720 [info] update#setState checking for updates
+2024-05-23 21:09:24.039 [info] update#setState idle
+2024-05-23 22:09:23.724 [info] update#setState checking for updates
+2024-05-23 22:09:24.000 [info] update#setState idle
+2024-05-23 22:39:08.951 [error] [UtilityProcess type: shared-process, pid: 2153]: crashed with code 15 and reason 'killed'

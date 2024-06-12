@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///usr/share/rpd-wallpaper/trees.jpg" added="2024-04-28T01:05:45.619492Z" modified="2024-04-28T01:05:45.619503Z" visited="2024-04-28T01:05:45.619494Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="pipanel" exec="&apos;pipanel %u&apos;" modified="2024-04-28T01:05:45.619497Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/rpd-wallpaper/sand.jpg" added="2024-04-28T01:05:58.211551Z" modified="2024-04-28T01:05:58.211561Z" visited="2024-04-28T01:05:58.211554Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="pipanel" exec="&apos;pipanel %u&apos;" modified="2024-04-28T01:05:58.211557Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/rpd-wallpaper/mountain.jpg" added="2024-04-28T01:06:10.319318Z" modified="2024-04-28T01:06:10.319330Z" visited="2024-04-28T01:06:10.319321Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="pipanel" exec="&apos;pipanel %u&apos;" modified="2024-04-28T01:06:10.319324Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/assembler/sum02.s" added="2024-04-28T17:41:43.805951Z" modified="2024-04-28T17:41:43.805963Z" visited="2024-04-28T17:41:43.805954Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-04-28T17:41:43.805958Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/assembler/load01.s" added="2024-04-28T17:42:16.668691Z" modified="2024-04-28T17:42:16.668702Z" visited="2024-04-28T17:42:16.668694Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-04-28T17:42:16.668697Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/assembler/store01.s" added="2024-04-28T17:42:24.070772Z" modified="2024-04-28T17:42:24.070784Z" visited="2024-04-28T17:42:24.070776Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-04-28T17:42:24.070780Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/assembler/branch01.s" added="2024-04-28T17:43:01.853485Z" modified="2024-04-28T17:43:01.853493Z" visited="2024-04-28T17:43:01.853487Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-04-28T17:43:01.853490Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/assembler/compare01.s" added="2024-04-28T17:43:16.681042Z" modified="2024-04-28T17:43:16.681055Z" visited="2024-04-28T17:43:16.681045Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-04-28T17:43:16.681049Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/assembler/loop01.s" added="2024-04-28T17:43:37.125513Z" modified="2024-04-28T17:43:37.125525Z" visited="2024-04-28T17:43:37.125517Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-04-28T17:43:37.125521Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/assembler/collatz.s" added="2024-04-28T17:44:03.049779Z" modified="2024-04-28T17:44:03.049791Z" visited="2024-04-28T17:44:03.049782Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-04-28T17:44:03.049786Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/assembler/loop02.s" added="2024-04-28T17:44:14.967778Z" modified="2024-04-28T17:44:14.967790Z" visited="2024-04-28T17:44:14.967781Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-04-28T17:44:14.967785Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/int/4_event_thread.py" added="2024-04-28T20:40:37.941961Z" modified="2024-04-28T20:40:37.941973Z" visited="2024-04-28T20:40:37.941964Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-04-28T20:40:37.941968Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/int/5_event_both.py" added="2024-04-28T20:48:09.309090Z" modified="2024-04-28T20:48:09.309103Z" visited="2024-04-28T20:48:09.309093Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-04-28T20:48:09.309097Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/int/7_event_led_toggle.py" added="2024-04-28T20:51:17.468873Z" modified="2024-04-28T20:51:17.468885Z" visited="2024-04-28T20:51:17.468876Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-04-28T20:51:17.468880Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/int/6_event_led_button.py" added="2024-04-28T20:51:17.468906Z" modified="2024-04-28T20:51:17.468914Z" visited="2024-04-28T20:51:17.468908Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-04-28T20:51:17.468911Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/int/8_event_blink.py" added="2024-04-28T20:51:17.468933Z" modified="2024-04-28T20:51:17.468941Z" visited="2024-04-28T20:51:17.468935Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-04-28T20:51:17.468938Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/int/poll.py" added="2024-04-28T20:51:17.468954Z" modified="2024-04-28T20:51:17.468962Z" visited="2024-04-28T20:51:17.468956Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-04-28T20:51:17.468959Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/int/conv2.py" added="2024-04-28T20:51:17.468976Z" modified="2024-04-28T20:51:17.468983Z" visited="2024-04-28T20:51:17.468977Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-04-28T20:51:17.468980Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/helloworld/hola.ino" added="2024-05-01T20:53:45.300456Z" modified="2024-05-01T20:53:45.300465Z" visited="2024-05-01T20:53:45.300459Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-05-01T20:53:45.300462Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/helloworld/hola.sh" added="2024-05-01T20:57:02.490181Z" modified="2024-05-01T20:57:02.490195Z" visited="2024-05-01T20:57:02.490184Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-05-01T20:57:02.490190Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/helloworld/hola.bas" added="2024-05-01T20:58:52.728215Z" modified="2024-05-01T21:29:37.311994Z" visited="2024-05-01T20:58:52.728218Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-05-01T21:29:37.311989Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/helloworld/holac." added="2024-05-01T21:04:05.759924Z" modified="2024-05-01T21:04:05.759936Z" visited="2024-05-01T21:04:05.759927Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-05-01T21:04:05.759931Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/helloworld/hola.c." added="2024-05-01T21:04:17.204804Z" modified="2024-05-01T21:04:17.204816Z" visited="2024-05-01T21:04:17.204807Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-05-01T21:04:17.204811Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/helloworld/hola.c" added="2024-05-01T21:05:06.160509Z" modified="2024-05-01T21:05:06.160521Z" visited="2024-05-01T21:05:06.160512Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-05-01T21:05:06.160516Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/helloworld/hola.c%23" added="2024-05-01T21:05:54.342822Z" modified="2024-05-01T21:09:01.986467Z" visited="2024-05-01T21:05:54.342826Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-05-01T21:09:01.986461Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/helloworld/hola.cpp" added="2024-05-01T21:09:33.866210Z" modified="2024-05-01T21:09:33.866218Z" visited="2024-05-01T21:09:33.866212Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-05-01T21:09:33.866215Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/helloworld/hola.dpr" added="2024-05-01T21:18:11.391270Z" modified="2024-05-01T21:18:11.391282Z" visited="2024-05-01T21:18:11.391273Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-05-01T21:18:11.391277Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/helloworld/hola.bat" added="2024-05-01T21:19:06.779249Z" modified="2024-05-01T21:19:06.779257Z" visited="2024-05-01T21:19:06.779252Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-05-01T21:19:06.779254Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/helloworld/hola.html" added="2024-05-01T21:19:41.353789Z" modified="2024-05-01T21:19:41.353802Z" visited="2024-05-01T21:19:41.353792Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-05-01T21:19:41.353797Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/helloworld/hola.java" added="2024-05-01T21:23:25.992790Z" modified="2024-05-01T21:23:25.992802Z" visited="2024-05-01T21:23:25.992793Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-05-01T21:23:25.992798Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/helloworld/hola.js" added="2024-05-01T21:25:00.866540Z" modified="2024-05-01T21:25:00.866552Z" visited="2024-05-01T21:25:00.866543Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-05-01T21:25:00.866547Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/helloworld/hola.m" added="2024-05-01T21:25:48.567488Z" modified="2024-05-01T21:25:48.567500Z" visited="2024-05-01T21:25:48.567491Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-objcsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-05-01T21:25:48.567495Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/helloworld/hola.pas" added="2024-05-01T21:26:15.624358Z" modified="2024-05-01T21:26:15.624369Z" visited="2024-05-01T21:26:15.624361Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-pascal"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-05-01T21:26:15.624364Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/helloworld/hola.pl" added="2024-05-01T21:27:08.483946Z" modified="2024-05-01T21:27:08.483958Z" visited="2024-05-01T21:27:08.483949Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-perl"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-05-01T21:27:08.483953Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/helloworld/hola.php" added="2024-05-01T21:27:31.080794Z" modified="2024-05-01T21:27:31.080807Z" visited="2024-05-01T21:27:31.080797Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-php"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-05-01T21:27:31.080801Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/helloworld/hola.pde" added="2024-05-01T21:28:27.719569Z" modified="2024-05-01T21:28:27.719577Z" visited="2024-05-01T21:28:27.719571Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-05-01T21:28:27.719574Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/helloworld/hola.py" added="2024-05-01T21:29:12.832324Z" modified="2024-05-01T21:29:12.832333Z" visited="2024-05-01T21:29:12.832327Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-05-01T21:29:12.832329Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/nodetest/webserver.js" added="2024-05-02T00:15:03.570671Z" modified="2024-05-02T00:22:07.960434Z" visited="2024-05-02T00:15:03.570674Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-05-02T00:22:07.960430Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/nodetest/webserver2.js" added="2024-05-02T00:22:21.110036Z" modified="2024-05-02T00:22:21.110044Z" visited="2024-05-02T00:22:21.110038Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-05-02T00:22:21.110041Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/nodetest" added="2024-05-02T00:25:23.851268Z" modified="2024-05-11T21:05:19.670730Z" visited="2024-05-02T00:25:23.851270Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-05-11T21:05:19.670725Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/helloworld" added="2024-05-02T06:07:33.482217Z" modified="2024-05-02T06:07:33.482225Z" visited="2024-05-02T06:07:33.482219Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-05-02T06:07:33.482222Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/database/database.s" added="2024-05-11T23:56:12.030847Z" modified="2024-05-11T23:56:12.030856Z" visited="2024-05-11T23:56:12.030849Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-05-11T23:56:12.030852Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/blink/javascript/blink2.js" added="2024-05-13T19:23:36.484740Z" modified="2024-05-13T19:23:36.484752Z" visited="2024-05-13T19:23:36.484743Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-05-13T19:23:36.484747Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/blink/python/blink2.py" added="2024-05-13T23:31:53.161483Z" modified="2024-05-13T23:31:53.161492Z" visited="2024-05-13T23:31:53.161485Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-05-13T23:31:53.161488Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/blink/java/blink2.java" added="2024-05-13T23:54:50.801480Z" modified="2024-05-13T23:54:50.801491Z" visited="2024-05-13T23:54:50.801482Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-05-13T23:54:50.801486Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/blink/java/blinkLED.java" added="2024-05-13T23:55:21.598990Z" modified="2024-05-13T23:55:21.598998Z" visited="2024-05-13T23:55:21.598992Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-05-13T23:55:21.598994Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/blink/java/BlinkLED.java" added="2024-05-13T23:57:04.782794Z" modified="2024-05-13T23:57:04.782807Z" visited="2024-05-13T23:57:04.782797Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-05-13T23:57:04.782801Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/blink/c++/blink.cpp" added="2024-05-14T18:17:12.992286Z" modified="2024-05-14T18:17:12.992295Z" visited="2024-05-14T18:17:12.992288Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-05-14T18:17:12.992291Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/database/menor.s" added="2024-05-16T01:48:10.937813Z" modified="2024-05-16T01:48:10.937822Z" visited="2024-05-16T01:48:10.937816Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-05-16T01:48:10.937819Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/Pictures/Webcam/2024-05-15-211358.jpg" added="2024-05-16T03:14:10.333726Z" modified="2024-05-16T03:14:10.333736Z" visited="2024-05-16T03:14:10.333728Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Eye of MATE Image Viewer" exec="&apos;eom %u&apos;" modified="2024-05-16T03:14:10.333733Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/Pictures/Webcam/2024-05-15-211336.jpg" added="2024-05-16T03:14:18.968347Z" modified="2024-05-16T03:14:18.968359Z" visited="2024-05-16T03:14:18.968350Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Eye of MATE Image Viewer" exec="&apos;eom %u&apos;" modified="2024-05-16T03:14:18.968355Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/Capitulo8/Ejemplo1.py" added="2024-05-16T23:48:08.799871Z" modified="2024-05-16T23:48:08.799884Z" visited="2024-05-16T23:48:08.799874Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-05-16T23:48:08.799878Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/tflite/examples/lite/examples/object_detection/raspberry_pi" added="2024-05-19T18:48:09.371180Z" modified="2024-05-19T18:48:09.371188Z" visited="2024-05-19T18:48:09.371182Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-05-19T18:48:09.371184Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/josuelopez/bootfs/test.py" added="2024-05-19T19:25:14.773216Z" modified="2024-05-19T19:25:14.773224Z" visited="2024-05-19T19:25:14.773218Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-05-19T19:25:14.773221Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/rpi-TM1638/test2.py" added="2024-05-19T20:14:50.624172Z" modified="2024-05-19T20:14:50.624183Z" visited="2024-05-19T20:14:50.624175Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-05-19T20:14:50.624178Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/rpi-TM1638/test3.py" added="2024-05-19T20:23:01.042645Z" modified="2024-05-19T20:23:01.042658Z" visited="2024-05-19T20:23:01.042648Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-05-19T20:23:01.042652Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/rtc1/main.py" added="2024-05-19T21:54:35.712375Z" modified="2024-05-19T21:54:35.712383Z" visited="2024-05-19T21:54:35.712377Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="zenity" exec="&apos;zenity %u&apos;" modified="2024-05-19T21:54:35.712380Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/rtc1/test.js.ts" added="2024-05-24T01:27:11.005160Z" modified="2024-05-24T01:27:11.005168Z" visited="2024-05-24T01:27:11.005162Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/vnd.trolltech.linguist"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-05-24T01:27:11.005165Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/rtc1/test.js" added="2024-05-24T01:27:28.291815Z" modified="2024-05-24T01:27:28.291827Z" visited="2024-05-24T01:27:28.291818Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-05-24T01:27:28.291822Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/rtc1/i2c" added="2024-05-24T04:47:39.707295Z" modified="2024-05-28T18:35:16.526708Z" visited="2024-05-24T04:47:39.707298Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="zenity" exec="&apos;zenity %u&apos;" modified="2024-05-28T18:35:16.526702Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/rtc1/i2c.py" added="2024-05-24T04:51:38.793673Z" modified="2024-05-24T04:51:38.793680Z" visited="2024-05-24T04:51:38.793675Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="zenity" exec="&apos;zenity %u&apos;" modified="2024-05-24T04:51:38.793677Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/rtc1/dasdas" added="2024-05-24T04:51:53.029585Z" modified="2024-05-24T04:51:53.029596Z" visited="2024-05-24T04:51:53.029588Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="zenity" exec="&apos;zenity %u&apos;" modified="2024-05-24T04:51:53.029591Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/josuelopez/rtc1/dsa" added="2024-05-24T04:52:06.178708Z" modified="2024-05-24T04:52:06.178720Z" visited="2024-05-24T04:52:06.178712Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="zenity" exec="&apos;zenity %u&apos;" modified="2024-05-24T04:52:06.178715Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

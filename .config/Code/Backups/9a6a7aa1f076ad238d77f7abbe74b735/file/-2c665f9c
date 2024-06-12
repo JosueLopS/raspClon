@@ -1,0 +1,74 @@
+file:///home/josuelopez/botonesWeb/botonesWebNode/index.js {"mtime":1716923251947,"ctime":1716525298738,"size":1125,"etag":"3cfco1hb4159","orphaned":false,"typeId":""}
+const express = require('express'); // Import the Express framework
+
+const http = require('http'); // Import the built-in HTTP module
+
+const { Server } = require("socket.io"); // Import the Socket.IO library
+
+const { SerialPort } = require('serialport'); // Import the SerialPort library
+
+
+
+const app = express(); // Create an Express application
+
+const server = http.createServer(app); // Create an HTTP server using the Express app
+
+const io = new Server(server); // Create a Socket.IO server using the HTTP server
+
+
+
+const baud = 9600; // Set the baud rate (communication speed) for the serial port
+// Note: Raspberry Pi Pico uses 115200, while Arduino Uno uses 9600
+
+
+
+const port = new SerialPort({ path: '/dev/ttyACM0', baudRate: baud }, function (err) {
+    // Initialize a new SerialPort instance with the specified path and baud rate
+    // '/dev/ttyACM0' is the path to the serial port (adjust as needed)
+    // The callback function handles any errors during initialization
+    if (err) {
+        return console.log('Error: ', err.message);
+    }
+});
+
+
+
+app.use(express.static('public')); // Serve static files from the 'public' directory
+
+
+
+app.get('/', (req, res) => {
+    // Define a route for the root URL ('/')
+    // When a user accesses the root URL, send the 'index.html' file
+    res.sendFile(_path.join(__dirname + '/public/index.html'));
+});
+
+
+
+io.on('connection', (socket) => {
+    // Handle socket connections
+    console.log('a user connected'); // Log a message when a user connects
+
+    socket.on('dato', (msg) => {
+        // Listen for a 'dato' event from the client
+        console.log(msg); // Log the received message
+        port.write(msg + '\n', (err) => {
+            // Write the message to the serial port
+            if (err) {
+                return console.log('Error on write: ', err.message);
+            }
+        });
+    });
+
+    socket.on('disconnect', () => {
+        // Listen for a socket disconnect event
+        console.log('user disconnected'); // Log a message when a user disconnects
+    });
+});
+
+
+
+server.listen(3000, () => {
+    // Start the server and listen on port 3000
+    console.log('listening on *:3000');
+});

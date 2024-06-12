@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@iiot2k/gpio": "^2.0.4",
+    "gpio": "^0.2.10",
+    "onoff": "^6.0.3",
+    "pigpio": "^3.3.1",
+    "socket.io": "^4.7.5"
+  }
+}

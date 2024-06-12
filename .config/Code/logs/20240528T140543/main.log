@@ -1,0 +1,15 @@
+2024-05-28 14:05:44.047 [info] update#setState idle
+2024-05-28 14:06:14.102 [info] update#setState checking for updates
+2024-05-28 14:06:19.137 [error] update#isLatestVersion(): failed to check for updates
+2024-05-28 14:06:19.138 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:108522)
+    at SimpleURLLoaderWrapper.emit (node:events:517:28)
+2024-05-28 14:06:19.142 [error] update#isLatestVersion(): failed to check for updates
+2024-05-28 14:06:19.142 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:108522)
+    at SimpleURLLoaderWrapper.emit (node:events:517:28)
+2024-05-28 14:06:49.854 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:108522)
+    at SimpleURLLoaderWrapper.emit (node:events:517:28)
+2024-05-28 14:06:49.854 [info] update#setState idle
+2024-05-29 12:53:41.461 [info] Extension host with pid 1939 exited with code: 0, signal: unknown.

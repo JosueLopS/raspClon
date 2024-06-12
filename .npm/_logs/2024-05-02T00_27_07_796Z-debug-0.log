@@ -1,0 +1,147 @@
+0 verbose cli /usr/bin/node /usr/bin/npm
+1 info using npm@10.5.0
+2 info using node@v20.12.2
+3 timing npm:load:whichnode Completed in 2ms
+4 timing config:load:defaults Completed in 2ms
+5 timing config:load:file:/usr/lib/node_modules/npm/npmrc Completed in 0ms
+6 timing config:load:builtin Completed in 0ms
+7 timing config:load:cli Completed in 3ms
+8 timing config:load:env Completed in 0ms
+9 timing config:load:file:/home/josuelopez/nodetest/.npmrc Completed in 0ms
+10 timing config:load:project Completed in 1ms
+11 timing config:load:file:/home/josuelopez/.npmrc Completed in 0ms
+12 timing config:load:user Completed in 0ms
+13 timing config:load:file:/usr/etc/npmrc Completed in 0ms
+14 timing config:load:global Completed in 1ms
+15 timing config:load:setEnvs Completed in 1ms
+16 timing config:load Completed in 8ms
+17 timing npm:load:configload Completed in 8ms
+18 timing config:load:flatten Completed in 3ms
+19 timing npm:load:mkdirpcache Completed in 0ms
+20 timing npm:load:mkdirplogs Completed in 1ms
+21 verbose title npm install onoff
+22 verbose argv "install" "onoff"
+23 timing npm:load:setTitle Completed in 0ms
+24 timing npm:load:display Completed in 1ms
+25 verbose logfile logs-max:10 dir:/home/josuelopez/.npm/_logs/2024-05-02T00_27_07_796Z-
+26 verbose logfile /home/josuelopez/.npm/_logs/2024-05-02T00_27_07_796Z-debug-0.log
+27 timing npm:load:logFile Completed in 9ms
+28 timing npm:load:timers Completed in 1ms
+29 timing npm:load:configScope Completed in 0ms
+30 timing npm:load Completed in 41ms
+31 timing arborist:ctor Completed in 0ms
+32 silly logfile done cleaning log files
+33 timing idealTree:init Completed in 30ms
+34 timing idealTree:userRequests Completed in 1ms
+35 silly idealTree buildDeps
+36 silly fetch manifest onoff@*
+37 timing arborist:ctor Completed in 0ms
+38 http fetch GET 200 https://registry.npmjs.org/onoff 5846ms (cache miss)
+39 silly placeDep ROOT onoff@6.0.3 OK for:  want: *
+40 silly fetch manifest epoll@^4.0.1
+41 silly fetch manifest lodash.debounce@^4.0.8
+42 http fetch GET 200 https://registry.npmjs.org/epoll 347ms (cache miss)
+43 http fetch GET 200 https://registry.npmjs.org/lodash.debounce 554ms (cache miss)
+44 timing idealTree:#root Completed in 6415ms
+45 silly placeDep ROOT epoll@4.0.2 OK for: onoff@6.0.3 want: ^4.0.1
+46 silly placeDep ROOT lodash.debounce@4.0.8 OK for: onoff@6.0.3 want: ^4.0.8
+47 silly fetch manifest bindings@^1.5.0
+48 silly fetch manifest nan@^2.17.0
+49 http fetch GET 200 https://registry.npmjs.org/bindings 119ms (cache miss)
+50 http fetch GET 200 https://registry.npmjs.org/nan 170ms (cache miss)
+51 timing idealTree:node_modules/onoff Completed in 185ms
+52 silly placeDep ROOT bindings@1.5.0 OK for: epoll@4.0.2 want: ^1.5.0
+53 silly placeDep ROOT nan@2.19.0 OK for: epoll@4.0.2 want: ^2.17.0
+54 silly fetch manifest file-uri-to-path@1.0.0
+55 http fetch GET 200 https://registry.npmjs.org/file-uri-to-path 129ms (cache miss)
+56 timing idealTree:node_modules/epoll Completed in 135ms
+57 silly placeDep ROOT file-uri-to-path@1.0.0 OK for: bindings@1.5.0 want: 1.0.0
+58 timing idealTree:node_modules/bindings Completed in 3ms
+59 timing idealTree:node_modules/file-uri-to-path Completed in 0ms
+60 timing idealTree:node_modules/lodash.debounce Completed in 0ms
+61 timing idealTree:node_modules/nan Completed in 0ms
+62 timing idealTree:buildDeps Completed in 6740ms
+63 timing idealTree:fixDepFlags Completed in 0ms
+64 timing idealTree Completed in 6774ms
+65 timing reify:loadTrees Completed in 6775ms
+66 timing reify:diffTrees Completed in 3ms
+67 silly reify moves {}
+68 timing reify:retireShallow Completed in 2ms
+69 timing reify:createSparse Completed in 2ms
+70 timing reify:loadBundles Completed in 0ms
+71 silly audit bulk request {
+71 silly audit   '@socket.io/component-emitter': [ '3.1.2' ],
+71 silly audit   '@types/cookie': [ '0.4.1' ],
+71 silly audit   '@types/cors': [ '2.8.17' ],
+71 silly audit   '@types/node': [ '20.12.8' ],
+71 silly audit   accepts: [ '1.3.8' ],
+71 silly audit   base64id: [ '2.0.0' ],
+71 silly audit   cookie: [ '0.4.2' ],
+71 silly audit   cors: [ '2.8.5' ],
+71 silly audit   debug: [ '4.3.4' ],
+71 silly audit   'engine.io': [ '6.5.4' ],
+71 silly audit   'engine.io-parser': [ '5.2.2' ],
+71 silly audit   'mime-db': [ '1.52.0' ],
+71 silly audit   'mime-types': [ '2.1.35' ],
+71 silly audit   ms: [ '2.1.2' ],
+71 silly audit   negotiator: [ '0.6.3' ],
+71 silly audit   'object-assign': [ '4.1.1' ],
+71 silly audit   'socket.io': [ '4.7.5' ],
+71 silly audit   'socket.io-adapter': [ '2.5.4' ],
+71 silly audit   'socket.io-parser': [ '4.2.4' ],
+71 silly audit   'undici-types': [ '5.26.5' ],
+71 silly audit   vary: [ '1.1.2' ],
+71 silly audit   ws: [ '8.11.0' ],
+71 silly audit   onoff: [ '6.0.3' ],
+71 silly audit   epoll: [ '4.0.2' ],
+71 silly audit   'lodash.debounce': [ '4.0.8' ],
+71 silly audit   bindings: [ '1.5.0' ],
+71 silly audit   nan: [ '2.19.0' ],
+71 silly audit   'file-uri-to-path': [ '1.0.0' ]
+71 silly audit }
+72 silly tarball no local data for nan@https://registry.npmjs.org/nan/-/nan-2.19.0.tgz. Extracting by manifest.
+73 silly tarball no local data for bindings@https://registry.npmjs.org/bindings/-/bindings-1.5.0.tgz. Extracting by manifest.
+74 silly tarball no local data for epoll@https://registry.npmjs.org/epoll/-/epoll-4.0.2.tgz. Extracting by manifest.
+75 silly tarball no local data for onoff@https://registry.npmjs.org/onoff/-/onoff-6.0.3.tgz. Extracting by manifest.
+76 silly tarball no local data for lodash.debounce@https://registry.npmjs.org/lodash.debounce/-/lodash.debounce-4.0.8.tgz. Extracting by manifest.
+77 silly tarball no local data for file-uri-to-path@https://registry.npmjs.org/file-uri-to-path/-/file-uri-to-path-1.0.0.tgz. Extracting by manifest.
+78 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 165ms
+79 timing auditReport:getReport Completed in 170ms
+80 silly audit report {}
+81 timing auditReport:init Completed in 0ms
+82 timing reify:audit Completed in 171ms
+83 http fetch GET 200 https://registry.npmjs.org/nan/-/nan-2.19.0.tgz 166ms (cache miss)
+84 timing reifyNode:node_modules/nan Completed in 181ms
+85 http fetch GET 200 https://registry.npmjs.org/bindings/-/bindings-1.5.0.tgz 373ms (cache miss)
+86 timing reifyNode:node_modules/bindings Completed in 388ms
+87 http fetch GET 200 https://registry.npmjs.org/file-uri-to-path/-/file-uri-to-path-1.0.0.tgz 398ms (cache miss)
+88 timing reifyNode:node_modules/file-uri-to-path Completed in 418ms
+89 http fetch GET 200 https://registry.npmjs.org/epoll/-/epoll-4.0.2.tgz 405ms (cache miss)
+90 timing reifyNode:node_modules/epoll Completed in 422ms
+91 http fetch GET 200 https://registry.npmjs.org/lodash.debounce/-/lodash.debounce-4.0.8.tgz 570ms (cache miss)
+92 timing reifyNode:node_modules/lodash.debounce Completed in 589ms
+93 http fetch GET 200 https://registry.npmjs.org/onoff/-/onoff-6.0.3.tgz 700ms (cache miss)
+94 timing reifyNode:node_modules/onoff Completed in 717ms
+95 timing reify:unpack Completed in 719ms
+96 timing reify:unretire Completed in 0ms
+97 timing build:queue Completed in 0ms
+98 info run epoll@4.0.2 install node_modules/epoll node-gyp rebuild
+99 info run epoll@4.0.2 install { code: 0, signal: null }
+100 timing build:run:install:node_modules/epoll Completed in 13356ms
+101 timing build:run:install Completed in 13357ms
+102 timing build:deps Completed in 13357ms
+103 timing build Completed in 13359ms
+104 timing reify:build Completed in 13359ms
+105 timing reify:trash Completed in 0ms
+106 timing reify:save Completed in 21ms
+107 timing reify Completed in 20922ms
+108 silly ADD node_modules/file-uri-to-path
+109 silly ADD node_modules/nan
+110 silly ADD node_modules/bindings
+111 silly ADD node_modules/lodash.debounce
+112 silly ADD node_modules/epoll
+113 silly ADD node_modules/onoff
+114 timing command:install Completed in 20931ms
+115 verbose exit 0
+116 timing npm Completed in 21158ms
+117 info ok

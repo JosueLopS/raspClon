@@ -1,0 +1,12 @@
+{"timestamp":3168502,"category":"nimbus_events","name":"enrollment","extra":{"experiment_type":"rollout","experiment":"add-an-image-to-pdf-with-alt-text-rollout","branch":"control"}}
+{"timestamp":3168526,"category":"nimbus_events","name":"enrollment","extra":{"experiment_type":"rollout","branch":"control-rollout","experiment":"awesome-bar-result-menu-rollout-phase-1"}}
+{"timestamp":3168563,"category":"nimbus_events","name":"enrollment","extra":{"experiment_type":"rollout","branch":"enable-csv-import","experiment":"csv-import-release-rollout"}}
+{"timestamp":3168575,"category":"nimbus_events","name":"enrollment","extra":{"branch":"rollout","experiment":"ech-roll-out","experiment_type":"rollout"}}
+{"timestamp":3168649,"category":"nimbus_events","name":"enrollment","extra":{"branch":"treatment-a","experiment_type":"rollout","experiment":"fox-doodle-set-to-default-early-day-user-en-treatment-a-rollout"}}
+{"timestamp":3168667,"category":"nimbus_events","name":"enrollment","extra":{"experiment":"mozillaaccounts-toolbar-button-default-visibility-existing-user","experiment_type":"rollout","branch":"treatment-a"}}
+{"timestamp":3168748,"category":"nimbus_events","name":"enrollment","extra":{"branch":"treatment","experiment_type":"rollout","experiment":"upgrade-spotlight-rollout"}}
+{"timestamp":3168825,"category":"nimbus_events","name":"enrollment","extra":{"experiment":"phc-rollout","branch":"rollout","experiment_type":"rollout"}}
+{"timestamp":3168959,"category":"nimbus_events","name":"enrollment","extra":{"experiment":"highlighting-in-pdfs-rollout","experiment_type":"rollout","branch":"treatment"}}
+{"timestamp":3168990,"category":"nimbus_events","name":"enrollment","extra":{"experiment_type":"nimbus","experiment":"long-term-holdback-2024-h1-velocity-desktop","branch":"delivery"}}
+{"timestamp":3169102,"category":"nimbus_events","name":"enrollment","extra":{"experiment":"fox-guide-reader-mode-early-day-user-holdback","experiment_type":"nimbus","branch":"treatment-a"}}
+{"timestamp":3169622,"category":"nimbus_events","name":"exposure","extra":{"experiment":"fox-doodle-set-to-default-early-day-user-en-treatment-a-rollout","branch":"treatment-a","feature_id":"fxms-message-4"}}

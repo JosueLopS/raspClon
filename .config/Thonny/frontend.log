@@ -1,0 +1,31 @@
+12:49:59.752 [MainThread] INFO    thonny: Thonny version: 4.1.4
+12:49:59.752 [MainThread] INFO    thonny: cwd: /home/josuelopez
+12:49:59.752 [MainThread] INFO    thonny: original argv: ['/usr/bin/python3', '/usr/bin/thonny']
+12:49:59.752 [MainThread] INFO    thonny: sys.executable: /usr/bin/python3
+12:49:59.752 [MainThread] INFO    thonny: sys.argv: ['/usr/bin/thonny']
+12:49:59.752 [MainThread] INFO    thonny: sys.path: ['/usr/bin', '/usr/lib/python311.zip', '/usr/lib/python3.11', '/usr/lib/python3.11/lib-dynload', '/home/josuelopez/.local/lib/python3.11/site-packages', '/usr/local/lib/python3.11/dist-packages', '__editable__.luma.examples-0.0.0.finder.__path_hook__', '/usr/local/lib/python3.11/dist-packages/rpi_TM1638-0.1-py3.11.egg', '/usr/local/lib/python3.11/dist-packages/Adafruit_SSD1306-1.6.2-py3.11.egg', '/usr/lib/python3/dist-packages', '/usr/lib/python3.11/dist-packages']
+12:49:59.752 [MainThread] INFO    thonny: sys.flags: sys.flags(debug=0, inspect=0, interactive=0, optimize=0, dont_write_bytecode=0, no_user_site=0, no_site=0, ignore_environment=0, verbose=0, bytes_warning=0, quiet=0, hash_randomization=1, isolated=0, dev_mode=False, utf8_mode=0, warn_default_encoding=0, safe_path=False, int_max_str_digits=-1)
+12:49:59.804 [MainThread] INFO    thonny.workbench: Starting Workbench
+12:49:59.929 [MainThread] INFO    thonny.workbench: Creating runner
+12:49:59.931 [MainThread] INFO    thonny.workbench: Start loading plugins
+12:49:59.975 [MainThread] INFO    thonny.workbench: Done loading plugins
+12:50:00.070 [MainThread] INFO    thonny.workbench: Opening views
+12:50:00.265 [MainThread] INFO    thonny.running: Starting the backend: ['/usr/bin/python3', '-s', '-u', '-B', '/usr/lib/python3/dist-packages/thonny/plugins/rp2040/rp2040_back.py', "{'clean': False, 'port': '/dev/ttyACM0', 'dtr': None, 'rts': None, 'submit_mode': 'raw_paste', 'interrupt_on_connect': True, 'write_block_size': 64, 'write_block_delay': None, 'proxy_class': 'RaspberryPiPicoBackendProxy', 'sync_time': True, 'validate_time': False, 'local_rtc': True}"] /home/josuelopez/rtc1
+12:50:00.387 [MainThread] INFO    thonny.plugins.micropython.mp_front: Listing serial ports
+12:50:02.428 [MainThread] INFO    thonny.plugins.micropython.mp_front: Listing serial ports
+12:50:02.431 [MainThread] INFO    thonny.misc_utils: Could not import dbus_next, falling back to mount command
+12:50:03.991 [MainThread] INFO    thonny.running: Killing backend process
+12:50:03.996 [Thread-2 (_listen_stdout)] INFO    thonny.running: Reader got EOF
+12:50:04.092 [MainThread] INFO    thonny.shell: BaseShellText._on_backend_terminated
+12:50:04.108 [MainThread] INFO    thonny.running: Starting the backend: ['/usr/bin/python3', '-s', '-u', '-B', '/usr/lib/python3/dist-packages/thonny/plugins/rp2040/rp2040_back.py', "{'clean': False, 'port': '/dev/ttyACM0', 'dtr': None, 'rts': None, 'submit_mode': 'raw_paste', 'interrupt_on_connect': True, 'write_block_size': 64, 'write_block_delay': None, 'proxy_class': 'RaspberryPiPicoBackendProxy', 'sync_time': True, 'validate_time': False, 'local_rtc': True}"] /home/josuelopez/rtc1
+12:50:04.194 [MainThread] INFO    thonny.shell: BaseShellText.restart(False)
+12:50:04.234 [MainThread] INFO    thonny.plugins.micropython.mp_front: Listing serial ports
+12:50:06.613 [MainThread] INFO    thonny.ui_utils: Parent y: 98, rooty: 98, vrooty: 0
+12:50:06.614 [MainThread] INFO    thonny.ui_utils: Placing .!nodechoicedialog with geometry +506+316
+12:50:08.077 [MainThread] INFO    thonny.ui_utils: Parent y: 98, rooty: 98, vrooty: 0
+12:50:08.078 [MainThread] INFO    thonny.ui_utils: Placing .!backendfiledialog with geometry +287+118
+12:50:11.034 [MainThread] INFO    thonny.ui_utils: Parent y: 98, rooty: 98, vrooty: 0
+12:50:11.034 [MainThread] INFO    thonny.ui_utils: Placing .!inlinecommanddialog with geometry +435+345
+12:53:34.881 [MainThread] INFO    thonny.running: Killing backend process
+12:53:34.887 [Thread-4 (_listen_stdout)] INFO    thonny.running: Reader got EOF
+12:53:34.982 [MainThread] INFO    thonny.shell: BaseShellText._on_backend_terminated

@@ -1,0 +1,14 @@
+2024-05-19 16:25:12.128 [error] electron #1: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_NAME_NOT_RESOLVED
+2024-05-19 16:25:12.275 [error] electron #2: https://update.code.visualstudio.com/api/update/linux-arm/stable/e170252f762678dec6ca2cc69aba1570769a5d39 - error undefined net::ERR_NAME_NOT_RESOLVED
+2024-05-19 16:25:14.281 [error] electron #3: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2024-05-19 16:25:16.339 [error] electron #4: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2024-05-19 16:25:16.878 [error] electron #5: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2024-05-19 16:25:18.953 [error] electron #6: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2024-05-19 16:25:30.191 [error] electron #7: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2024-05-19 16:25:33.202 [error] electron #8: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2024-05-19 16:25:39.189 [error] electron #9: https://update.code.visualstudio.com/api/update/linux-arm/stable/e170252f762678dec6ca2cc69aba1570769a5d39 - error undefined net::ERR_NAME_NOT_RESOLVED
+2024-05-19 16:26:00.508 [error] electron #10: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2024-05-19 16:26:03.628 [error] electron #11: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2024-05-19 16:30:14.622 [error] electron #12: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_NAME_NOT_RESOLVED
+2024-05-19 16:35:14.640 [error] electron #13: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_NAME_NOT_RESOLVED
+2024-05-19 16:40:14.657 [error] electron #14: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_NAME_NOT_RESOLVED
